@@ -1,0 +1,12 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 32px;
+  background: #f9fbfd;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #bcc8d6;
+}
+h1 {
+  margin-bottom: 20px;
+}
